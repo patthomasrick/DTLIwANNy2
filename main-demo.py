@@ -1,20 +1,14 @@
 from tkinter import *
-from ruler import Ruler
-
-from skimage.io import show, imshow
 
 import matplotlib.pyplot as plt
-
-
 import numpy as np
 from skimage.exposure import equalize_adapthist
 from skimage.feature import canny
-from skimage.filters import threshold_otsu
-from skimage.io import imread, imshow, show
-from skimage.measure import perimeter
-from skimage.morphology import binary_erosion, binary_dilation, remove_small_objects, binary_closing
+from skimage.io import imshow, show
+from skimage.morphology import binary_erosion, binary_closing
 from skimage.restoration import denoise_tv_chambolle
-from skimage.transform import probabilistic_hough_line
+
+from ruler import Ruler
 
 """
 main-demo.py

@@ -13,7 +13,9 @@ from output_to_xlsx import *
 main3.py: Code to measure leaves, save data, possibly view data, and run ANNs. Should ideally be able to produce
 results.
 
-Has most of the functionality of main2.py, dataviewer.py, and some more functions not included elsewhere.
+Has most of the functionality of main2.py, dataviewer.py, and some more functions not included elsewhere. Provides a
+basic menu system for the user to navigate. Mainly intended for the researcher's use, however, it is somewhat simple
+to use (prior knowledge is needed, however, and documentation is nonexistant.
 """
 
 __author__ = "Patrick Thomas"

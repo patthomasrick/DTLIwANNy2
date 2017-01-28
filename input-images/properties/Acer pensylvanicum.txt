@@ -1,0 +1,4 @@
+shape:broad
+lobes:3,pointed
+edges:toothed
+sinues:shallow

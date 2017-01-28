@@ -1,0 +1,2 @@
+shape:oblong
+edges:doubly-toothed

@@ -1,0 +1,3 @@
+lobes:7,8,9,10,11,sharp,pointed,bristled
+shape:oblong-ovate,oblong
+sinues:deep

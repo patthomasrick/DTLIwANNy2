@@ -1,0 +1,3 @@
+edges:smooth
+lobes:4,pointed
+veins:pinnate

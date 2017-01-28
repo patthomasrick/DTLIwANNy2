@@ -1,0 +1,3 @@
+lobes:7,8,9
+sinues:shallow,deep,round
+shape:obovate,oblong

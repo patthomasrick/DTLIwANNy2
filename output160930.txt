@@ -1,0 +1,794 @@
+added input-images as load location for Tilia americana
+added input-images as load location for Carpinus caroliniana
+added input-images as load location for Acer pensylvanicum
+added input-images as load location for Rhododendron catawbiense
+added input-images as load location for Quercus alba
+added input-images as load location for Ostrya virginiana
+added input-images as load location for Acer saccharum
+added input-images as load location for Liriodendron tulipifera
+added input-images as load location for Acer campestre
+added input-images as load location for Quercus alba
+added input-images as load location for Quercus rubra
+added input-images as load location for Cercis canadensis
+added input-images as load location for Carpinus caroliniana
+added input-images as load location for Ostrya virginiana
+added input-images as load location for Quercus rubra
+added input-images as load location for Castanea dentata
+added input-images as load location for Liriodendron tulipifera
+added input-images as load location for Quercus coccinea
+added input-images as load location for Quercus alba
+added input-images as load location for Quercus rubra
+added input-images as load location for Acer saccharum
+
+
+Species loaded:
+Acer pensylvanicum
+Acer campestre
+Rhododendron catawbiense
+Quercus coccinea
+Ostrya virginiana
+Liriodendron tulipifera
+Carpinus caroliniana
+Quercus rubra
+Acer saccharum
+Quercus alba
+Cercis canadensis
+Tilia americana
+Castanea dentata
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6693.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6695.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6706.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6704.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6692.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6700.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6694.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6705.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6702.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6701.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6703.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer pensylvanicum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Acer pensylvanicum/IMG_6699.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer campestre 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Acer campestre/IMG_6636.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer campestre 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Acer campestre/IMG_6637.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer campestre 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Acer campestre/IMG_6635.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6669.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6686.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6672.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6675.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6677.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6689.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6661.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6679.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6662.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6658.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6678.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6659.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6660.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6676.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6663.JPG
+ERROR: The number of lines detected by the Hough function is less than 20.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6690.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6674.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6680.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6682.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6687.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6665.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6683.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6688.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6671.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6664.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6685.JPG
+ERROR: The number of lines detected by the Hough function is less than 20.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6668.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6666.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6673.JPG
+ERROR: The number of lines detected by the Hough function is less than 20.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6667.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6681.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Rhododendron catawbiense
+
+loading and measuring Rhododendron catawbiense 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Rhododendron catawbiense/IMG_6670.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus coccinea 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus coccinea/IMG_6775.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus coccinea 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus coccinea/IMG_6774.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus coccinea 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus coccinea/IMG_6772.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus coccinea 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus coccinea/IMG_6773.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Ostrya virginiana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Ostrya virginiana/IMG_6857.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Ostrya virginiana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Ostrya virginiana/IMG_6856.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Ostrya virginiana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Ostrya virginiana/IMG_6858.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Liriodendron tulipifera 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Liriodendron tulipifera/IMG_6760.JPG
+ERROR: The number of CENTER lines detected by the Hough function is less than 8.
+ERROR: failed to measure Liriodendron tulipifera
+
+loading and measuring Liriodendron tulipifera 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Liriodendron tulipifera/IMG_6758.JPG
+ERROR: The number of CENTER lines detected by the Hough function is less than 8.
+ERROR: failed to measure Liriodendron tulipifera
+
+loading and measuring Liriodendron tulipifera 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Liriodendron tulipifera/IMG_6761.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Liriodendron tulipifera 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Liriodendron tulipifera/IMG_6759.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6813.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Carpinus caroliniana
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6807.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6811.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6809.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6808.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6805.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6814.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6804.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6806.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6803.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6802.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6810.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Carpinus caroliniana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Carpinus caroliniana/IMG_6812.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Carpinus caroliniana
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6777.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6782.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6781.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6779.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6778.JPG
+ERROR: failed to measure Quercus rubra
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6783.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6785.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6784.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6786.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6787.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6780.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus rubra 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus rubra/IMG_6776.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6796.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6791.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6801.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Acer saccharum
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6789.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6797.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6793.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6798.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6794.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6799.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6792.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6800.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6790.JPG
+ERROR: The number of CENTER lines detected by the Hough function is less than 8.
+ERROR: failed to measure Acer saccharum
+
+loading and measuring Acer saccharum 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Acer saccharum/IMG_6788.JPG
+ERROR: The number of CENTER lines detected by the Hough function is less than 8.
+ERROR: failed to measure Acer saccharum
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6765.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6762.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6763.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6769.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6768.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6764.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6771.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6766.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6770.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Quercus alba 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160715/Quercus alba/IMG_6767.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Cercis canadensis 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Cercis canadensis/IMG_6631.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Cercis canadensis 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Cercis canadensis/IMG_6625.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Cercis canadensis 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Cercis canadensis/IMG_6626.JPG
+ERROR: The number of CENTER lines detected by the Hough function is less than 8.
+ERROR: failed to measure Cercis canadensis
+
+loading and measuring Cercis canadensis 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Cercis canadensis/IMG_6632.JPG
+ERROR: The number of CENTER lines detected by the Hough function is less than 8.
+ERROR: failed to measure Cercis canadensis
+
+loading and measuring Cercis canadensis 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Cercis canadensis/IMG_6629.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Cercis canadensis 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Cercis canadensis/IMG_6628.JPG
+ERROR: failed to measure Cercis canadensis
+
+loading and measuring Cercis canadensis 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Cercis canadensis/IMG_6627.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Cercis canadensis 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160703/Cercis canadensis/IMG_6630.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Cercis canadensis
+
+loading and measuring Tilia americana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Tilia americana/IMG_6756.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Tilia americana 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160711/Tilia americana/IMG_6757.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6844.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Castanea dentata
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6839.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Castanea dentata
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6823.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6831.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6836.JPG
+ERROR: failed to measure Castanea dentata
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6835.JPG
+ERROR: The number of lines detected by the Hough function is less than 20.
+ERROR: failed to measure Castanea dentata
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6834.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6855.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6851.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6838.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6861.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6829.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6852.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6830.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6845.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Castanea dentata
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6853.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6825.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6833.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6827.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6842.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6832.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6828.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6863.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6824.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6848.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6843.JPG
+ERROR: The number of LEVEL lines BELOW detected by the Hough function is less than 8.
+ERROR: failed to measure Castanea dentata
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6847.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6841.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Castanea dentata
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6837.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6840.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6862.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6854.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6849.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6826.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Castanea dentata
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6850.JPG
+loaded. saving data to ruler...
+saved.
+
+loading and measuring Castanea dentata 
+@ /home/patrick/PycharmProjects/SciFair-Y2/input-images/Leaf Collection 160717/Castanea dentata/IMG_6846.JPG
+ERROR: The number of LEVEL lines ABOVE detected by the Hough function is less than 8.
+ERROR: failed to measure Castanea dentata

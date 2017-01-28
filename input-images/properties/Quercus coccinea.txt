@@ -1,0 +1,3 @@
+lobes:pointed,bristled
+sinues:deep,wide
+shape:broad

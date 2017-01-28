@@ -1,0 +1,2 @@
+shape:ovate,long-pointed
+edges:doubly-toothed

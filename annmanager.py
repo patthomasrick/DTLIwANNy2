@@ -1,7 +1,5 @@
 import fann2.libfann as fann
 
-#  ~/.pyenv/versions/3.5.2/bin/python
-
 """
 ann-manager.py: Code to provide methods to create and control an ANN with libfann.
 """

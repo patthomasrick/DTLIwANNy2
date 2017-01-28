@@ -7,8 +7,6 @@ from datetime import datetime
 from xml2trainingdata import DEFAULT_TRAINING_FILE, DEFAULT_SAMPLE_SAVE_FILE, load_leaf_samples
 from annmanager import MAX_ITERATIONS, DESIRED_ERROR
 
-#  ~/.pyenv/versions/3.5.2/bin/python
-
 """
 output-to-xls.py: Provides the tools to save the outputs from the ANN to an excel spreadsheet.
 """

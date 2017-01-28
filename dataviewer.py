@@ -1,8 +1,6 @@
 from tkinter import *
 from numpy import mean, std
 import xml.etree.ElementTree as ETree
-
-# ~/.pyenv/versions/3.5.2/bin/python
 """
 dataviewer.py
 

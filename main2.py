@@ -12,8 +12,6 @@ from property_loader import load_properties
 from ruler import Ruler, MeasurementError
 from species_sort import Species
 
-# ~/.pyenv/versions/3.5.2/bin/python
-
 """
 main2.py: The main file for Deciduous Tree Leaf Identification with Artificial Neural Networks.
 

@@ -19,8 +19,6 @@ from skimage.transform import probabilistic_hough_line
 
 from scale_reader import dist_form, line_to_angle, line_to_slope
 
-# ~/.pyenv/versions/3.5.2/bin/python
-
 """
 ruler.py: Provides a class to measure and temporarily store leaves and their
 measurements.

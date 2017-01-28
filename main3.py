@@ -9,8 +9,6 @@ from ruler import Ruler
 from xml2trainingdata import *
 from output_to_xlsx import *
 
-#  ~/.pyenv/versions/3.5.2/bin/python
-
 """
 main3.py: Code to measure leaves, save data, possibly view data, and run ANNs. Should ideally be able to produce
 results.

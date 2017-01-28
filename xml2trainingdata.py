@@ -4,8 +4,6 @@ from random import choice
 
 import numpy as np
 
-#  ~/.pyenv/versions/3.5.2/bin/python
-
 """
 xml2trainingdata.py: This module is to convert the .xml file created by ruler.py
 to a format understandable by the artificial neural network built by the Fast

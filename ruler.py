@@ -55,7 +55,7 @@ MIDRIB_MARGIN_PERCENT = 0.05
 CONTOUR_LEVELS = 3
 
 # default scale
-DEFAULT_SCALE = imread('/home/patrick/PycharmProjects/SciFair-Y2/input-images/default_scale.png', as_grey=True)
+DEFAULT_SCALE = imread('input-images/default_scale.png', as_grey=True)
 
 
 class Ruler:
